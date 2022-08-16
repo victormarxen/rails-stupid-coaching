@@ -13,3 +13,31 @@
  *= require_tree .
  *= require_self
  */
+
+ .banner{
+  color: rgb(25, 75, 106);
+  font-size: 100px;
+  text-align: center;
+  margin-top: 50px;
+ }
+
+ #form{
+  color: rgb(182, 209, 226);
+  font-size: 30px;
+  justify-content: center;
+  padding: 25px;
+  text-align: center;
+ }
+
+ p{
+  background-color: rgb(115, 148, 169);
+  font-size: 25px;
+  text-align: center;
+  margin: 50px;
+  padding: 30px;
+ }
+
+ #answer {
+  background-color: rgb(201, 217, 227);
+  text-align: center;
+ }
